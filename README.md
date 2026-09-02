@@ -83,11 +83,11 @@ Interface:   Streamlit application with Gemini integration
 
 ---
 
-### [Recall](https://github.com/zaidwhy/recall) — AI with Photographic Memory
+### [Recall](https://github.com/TDMNQS/recall-spatial-ai) — AI with Photographic Memory
 
 > Point a camera at your space. Ask “Where are my keys?” and retrieve the scene in which they were previously observed.
 
-Hands-on work with the open-source [Recall project](https://github.com/zaidwhy/recall), exploring how camera observations become searchable memory and spoken answers.
+Hands-on work with the open-source [Recall project](https://github.com/TDMNQS/recall-spatial-ai), exploring how camera observations become searchable memory and spoken answers.
 
 **What interests me:** the connection between perception, persistent memory, retrieval quality, and API quota management.
 
