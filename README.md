@@ -144,6 +144,10 @@ IEEE Student Branch member · Budget Co-Head, Spectacle 2025 · C Language Quest
 ### 06 / BUILDING IN PUBLIC
 
 <p align="center">
+  <img width="100%" src="./assets/cricket-animation.svg" alt="Animated cricketer hitting a six — decorative illustration, not contribution data" />
+</p>
+
+<p align="center">
   <a href="https://github.com/TDMNQS?tab=overview">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TDMNQS&amp;bg_color=0D1117&amp;color=8B949E&amp;line=22D3EE&amp;point=58A6FF&amp;area=true&amp;area_color=163B65&amp;hide_border=true&amp;custom_title=Numan%27s%20Contribution%20Activity" alt="Numan's recent public GitHub contribution activity" />
   </a>
