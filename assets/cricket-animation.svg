@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+<title id="title">Numan's cricket break — hit for six</title>
+<desc id="desc">A looping illustration of a cricketer playing a lofted shot. The decorative backdrop is not GitHub contribution data.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#102a43"/></linearGradient>
+<pattern id="tiles" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="16" height="16" rx="3" fill="#164052" opacity=".45"/></pattern>
+</defs>
+<style>
+.bat{transform-origin:238px 155px;animation:shot 5s infinite}
+.ball{animation:delivery 5s linear infinite}
+.six{animation:celebrate 5s infinite}
+.spark{animation:flash 5s infinite}
+@keyframes shot{0%,34%{transform:rotate(-55deg)}40%{transform:rotate(-15deg)}50%,70%{transform:rotate(135deg)}90%,100%{transform:rotate(-55deg)}}
+@keyframes delivery{0%{transform:translate(820px,150px);opacity:1}23%{transform:translate(485px,201px);opacity:1}40%{transform:translate(254px,184px);opacity:1}55%{transform:translate(420px,87px);opacity:1}75%{transform:translate(670px,30px);opacity:1}87%{transform:translate(846px,47px);opacity:1}90%,100%{transform:translate(895px,58px);opacity:0}}
+@keyframes celebrate{0%,53%,93%,100%{opacity:0;transform:translateY(6px)}60%,85%{opacity:1;transform:translateY(0)}}
+@keyframes flash{0%,39%,52%,100%{opacity:0}42%,46%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.bat,.ball,.six,.spark{animation:none}.ball{transform:translate(530px,80px)}.six{opacity:1}.spark{opacity:0}}
+</style>
+<rect width="900" height="260" rx="18" fill="url(#bg)"/>
+<text x="30" y="36" fill="#a5f3fc" font-family="monospace" font-size="14" letter-spacing="3">CODE. COMMIT. CRICKET.</text>
+<rect x="30" y="60" width="840" height="145" fill="url(#tiles)"/>
+<path d="M30 214H870" stroke="#22d3ee" opacity=".35"/>
+<path d="M160 207L400 207L358 171L187 171Z" fill="#b69a67" opacity=".18"/>
+<path d="M170 210V173M184 210V173M198 210V173M166 171H202" fill="none" stroke="#e2e8f0" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="225" cy="218" rx="47" ry="5" fill="#000" opacity=".25"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M218 176L206 196L205 213M236 176L250 198L264 211" stroke="#2563eb" stroke-width="13" fill="none"/>
+<path d="M205 199V212M252 200L260 212" stroke="#e2e8f0" stroke-width="9"/>
+<path d="M200 215H213M260 215H273" stroke="#a5f3fc" stroke-width="6"/>
+<path d="M214 137Q226 130 240 139L239 179H213Z" fill="#0ea5e9"/>
+<path d="M215 142L225 153L238 155" stroke="#e7b58b" stroke-width="8" fill="none"/>
+<path d="M237 142L248 151L238 155" stroke="#e7b58b" stroke-width="8" fill="none"/>
+<circle cx="225" cy="119" r="14" fill="#e7b58b"/>
+<path d="M210 119Q207 97 225 98Q243 99 240 118Z" fill="#2563eb"/>
+<path d="M222 115H248" stroke="#22d3ee" stroke-width="4"/>
+<path d="M238 119L248 123L242 133H230M240 124L242 133" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<path d="M217 162H235" stroke="#22d3ee" stroke-width="2"/>
+<g class="bat"><path d="M238 155V170" stroke="#f8fafc" stroke-width="5"/><rect x="232" y="169" width="13" height="39" rx="3" fill="#e8c48e"/><path d="M236 176V198" stroke="#b48b55" stroke-width="2"/></g>
+<circle cx="238" cy="155" r="5" fill="#f8fafc"/>
+</g>
+<g class="ball"><circle r="5" fill="#fb7185"/><path d="M-2-4Q2 0-2 4" stroke="#fff" stroke-width="1" fill="none"/></g>
+<g class="spark" stroke="#fef08a" stroke-width="2"><path d="M263 181L275 173M262 191L276 196M251 174L253 161"/></g>
+<g class="six"><text x="580" y="123" fill="#22d3ee" font-family="monospace" font-size="48" font-weight="700" text-anchor="middle">SIX!</text><path d="M501 83L493 72M655 90L665 80M527 146L520 155M636 145L645 155" stroke="#a5f3fc" stroke-width="3"/></g>
+<text x="30" y="243" fill="#8ba3b8" font-family="monospace" font-size="11">CRICKET BREAK / DECORATIVE ANIMATION</text>
+</svg>
