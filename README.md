@@ -1,163 +1,172 @@
-<!-- Profile repository: TDMNQS/TDMNQS. Display name: Numan. -->
+<!-- Profile repository: TDMNQS/TDMNQS · Display name: Numan Qureshi -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;height=80&amp;lines=Hi%2C+I%27m+Numan+Qureshi.;Building+AI+that+connects+information+and+ideas.;RAG+architectures+%7C+Semantic+search+%7C+Knowledge+graphs;Python+%7C+Gemini+%7C+FastAPI+%7C+React;Open+to+AI+engineer+%2F+internship+opportunities." alt="Numan Qureshi: building AI systems with RAG, semantic search, and knowledge graphs; open to AI engineering internships." />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:163B65,100:22D3EE&amp;height=230&amp;section=header&amp;text=NUMAN%20QURESHI&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20SOFTWARE%20DEVELOPER&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Numan Qureshi — AI Software Developer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=55&amp;lines=Turning+scattered+information+into+connected+knowledge.;Building+with+Python%2C+FastAPI%2C+React+%26+Gemini.;Exploring+RAG%2C+semantic+search+%26+knowledge+graphs.;From+research+papers+to+working+AI+applications." alt="Animated introduction: connected knowledge, full-stack AI, RAG, and semantic search" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TDMNQS?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore my repositories" /></a>
+  <a href="#lets-build"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-163B65?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Open to internships" /></a>
+</p>
+
+<p align="center">
+  <b>Research-minded. Backend-focused. Always building.</b><br />
+  I build AI applications that connect information, retrieve evidence,<br />
+  and turn complex inputs into useful next steps.
 </p>
 
 ---
 
-I'm **Numan Qureshi**. I build AI applications that connect information, retrieve useful evidence, and help people take their next step.
+### 01 / THE DEVELOPER
 
-My work brings together **LLM APIs, retrieval pipelines, knowledge graphs, and full-stack development**—from research-paper discovery to personalized learning. I'm a final-year IT student at MGM University, with a minor in IoT and Big Data and hands-on Linux operations experience.
+I'm **Numan**, a final-year **Information Technology student at MGM University**, with a minor in **IoT & Big Data** and hands-on **Linux operations experience**.
 
-Building and learning in public. Looking for **AI engineer / applied AI / software engineering internships**.
+My work sits at the intersection of **AI, backend engineering, and full-stack development**. I'm especially interested in what happens between a document entering a system and a useful, source-grounded answer coming out.
 
----
+| Building | Exploring | Bringing |
+| :--- | :--- | :--- |
+| Research discovery with **SynapsGraph AI** | Citation extraction & retrieval evaluation | Team leadership & backend development |
+| **FastAPI + React** applications | RAG & knowledge graphs | Frontend–backend integration |
+| Evidence-grounded AI workflows | Semantic search & lexical baselines | Practical Linux operations |
 
-## Flagship Projects
+### 02 / SELECTED BUILDS
 
-### [SynapsGraph AI](https://github.com/TDMNQS/Final-Year-Project) — Research Discovery & Connected Knowledge
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Find relevant research by meaning, explore citation relationships, and ask questions grounded in research papers.
+#### 🧠 SynapsGraph AI
+**Research discovery. Connected knowledge.**
 
-My final-year team project combines semantic retrieval with a research knowledge graph. Qdrant handles vector search, while Neo4j represents relationships between papers, authors, and venues. PostgreSQL stores metadata, and Redis supports caching.
+My final-year team project brings semantic search and citation relationships together to help people explore research papers and ask grounded questions.
 
-**My role:** team leader and backend lead, with additional work on the frontend interface and API integration.
+**My role:** Team leader & backend lead, with frontend and API integration contributions.
 
-**Engineering focus:** coordinating multiple databases, connecting the React frontend to FastAPI, and making the document-to-retrieval pipeline work end to end.
+**Stack:** FastAPI · React · Qdrant · Neo4j · PostgreSQL · Redis · Docker
 
-```text
-Extraction:  GROBID + CEX; bibliographic metadata, citations, and contexts
-Retrieval:   Qdrant embeddings + cosine similarity; BM25 comparison baseline
-Graph:       Neo4j paper, author, and venue nodes; citation and authorship links
-AI layer:    Gemini summarization + retrieval-augmented answers
-Storage:     PostgreSQL metadata + Redis caching
-My role:     Team leader, backend lead, frontend and API integration
-```
+<a href="https://github.com/TDMNQS/Final-Year-Project"><b>Explore the research system →</b></a>
 
-`Python` `FastAPI` `React` `Gemini` `GROBID` `Qdrant` `Neo4j` `PostgreSQL` `Redis` `Docker`
+</td>
+<td width="50%" valign="top">
 
----
+#### 🧭 Personalized Learning Path
+**A roadmap around the learner.**
 
-### [AI-Powered Personalized Learning Path Generator](https://github.com/TDMNQS/AI-Powered-Personalized-Learning-Path-Generator) — A Roadmap Around the Learner
+An AI-powered application that turns learning goals, existing knowledge, and assessment responses into an organized study roadmap.
 
-> Start with your goals and current knowledge. Get a learning path with topics, resources, and a way to track progress.
+**My focus:** Backend development, Gemini integration, and frontend–backend communication.
 
-A personalized learning application that uses learner inputs to generate an organized study roadmap. The goal is to help someone understand what to learn next and how individual topics fit into their larger objective.
+**Stack:** Python · FastAPI · React · Gemini API
 
-**My focus:** backend development, AI integration, and resolving frontend–backend communication issues.
+<a href="https://github.com/TDMNQS/AI-Powered-Personalized-Learning-Path-Generator"><b>Explore the learning platform →</b></a>
 
-```text
-Inputs:      Learning goals, current knowledge, and assessment responses
-AI layer:    Gemini-assisted roadmap and resource recommendations
-Interface:   React dashboard with learning path and progress tracking
-Backend:     FastAPI endpoints connecting the interface to the AI workflow
-```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`React` `FastAPI` `Python` `Gemini API` `REST APIs` `Personalized Learning`
+#### 📄 Resume Job Match AI
+**From a resume to actionable feedback.**
 
----
+Resume-to-job comparison with match scoring, missing-keyword analysis, resume suggestions, and interview preparation.
 
-## Open-Source Adaptations & Hands-On Work
+**My contribution:** Adapted <a href="https://github.com/zaidwhy/resume-job-fit-ai">Resume Job-Fit AI</a>, customized branding and Gemini model configuration, and managed local setup and Git changes.
 
-### [Resume Job Match AI](https://github.com/TDMNQS/resume-job-match-ai) — From Resume to Application Feedback
+**Stack:** Python · Streamlit · Gemini API · PDF processing
 
-> Compare a resume with a job description, understand the gaps, and prepare a more targeted application.
+<a href="https://github.com/TDMNQS/resume-job-match-ai"><b>Explore the application →</b></a>
 
-My adapted version of [Resume Job-Fit AI](https://github.com/zaidwhy/resume-job-fit-ai), customized under the Resume Job Match AI name with Gemini model configuration changes.
+</td>
+<td width="50%" valign="top">
 
-The application combines match scoring, missing-keyword analysis, resume bullet suggestions, cover letters, interview preparation, and a skills-gap roadmap in one Streamlit interface.
+#### 👁️ Recall
+**Exploring AI with photographic memory.**
 
-**Hands-on focus:** configuring the Gemini integration, running the application locally, adapting the project, and managing changes through Git and GitHub.
+Hands-on exploration of an open-source camera-memory assistant: turning observations into searchable memory and spoken answers.
 
-```text
-Inputs:      Resume text or PDF + target job description
-Analysis:    Match scoring, missing keywords, and skills-gap feedback
-Outputs:     Resume suggestions, cover letters, and interview preparation
-Interface:   Streamlit application with Gemini integration
-```
+**My focus:** Understanding perception, persistent memory, hybrid retrieval, deduplication, and API quota management.
 
-`Python` `Streamlit` `Gemini API` `PDF Processing` `Git`
+**Stack:** FastAPI · React · Gemini Vision · ChromaDB · ONNX
 
----
+<a href="https://github.com/TDMNQS/recall-spatial-ai"><b>Explore the repository →</b></a>
 
-### [Recall](https://github.com/TDMNQS/recall-spatial-ai) — AI with Photographic Memory
+</td>
+</tr>
+</table>
 
-> Point a camera at your space. Ask “Where are my keys?” and retrieve the scene in which they were previously observed.
+### 03 / MY TOOLKIT
 
-Hands-on work with the open-source [Recall project](https://github.com/TDMNQS/recall-spatial-ai), exploring how camera observations become searchable memory and spoken answers.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,fastapi,flask,react,vite,tailwind,postgres,redis,firebase,linux,docker,git,github,aws,postman&amp;perline=9" alt="Python, Java, C++, JavaScript, FastAPI, Flask, React, Vite, Tailwind, PostgreSQL, Redis, Firebase, Linux, Docker, Git, GitHub, AWS, and Postman" />
+</p>
 
-**What interests me:** the connection between perception, persistent memory, retrieval quality, and API quota management.
+| Layer | Tools & concepts |
+| :--- | :--- |
+| **AI & retrieval** | Gemini APIs · RAG · Embeddings · Semantic search · BM25 |
+| **Knowledge & data** | Neo4j · Qdrant · ChromaDB · PostgreSQL · Redis |
+| **Applications** | FastAPI · Flask · React · Streamlit · REST APIs · WebSockets |
+| **Document pipelines** | GROBID · CEX · Citation extraction · PDF processing |
+| **Evaluation** | Precision@5 · Recall@5 · MRR · nDCG@5 |
+| **Infrastructure** | Linux · Docker · Git · AWS |
 
-```text
-Perception:  Gemini Vision; camera frames converted to structured descriptions
-Memory:      ChromaDB with local MiniLM embeddings through ONNX
-Retrieval:   Semantic search + object-name matching + time-decay re-ranking
-Interaction: WebSocket communication and spoken answers
-Efficiency:  Scene-change checks, deduplication, and vision-call rate limiting
-```
+### 04 / RESEARCH MINDSET
 
-`FastAPI` `React` `Gemini Vision` `ChromaDB` `ONNX` `WebSocket` `Hybrid Retrieval`
+> **Can the system retrieve useful evidence—and show where its answer came from?**
 
----
+That's the question behind my interest in research discovery. Through SynapsGraph AI, I'm exploring **citation contexts**, **semantic versus lexical retrieval**, and **knowledge graphs** that make relationships between papers easier to understand.
 
-## Research Focus
+<details>
+<summary><b>Inside my engineering interests ↗</b></summary>
 
-My research interests grow out of SynapsGraph AI: helping people discover relevant work and understand how papers connect.
+<br />
 
-- Citation extraction and citation-context understanding.
-- Semantic search compared with lexical retrieval baselines.
-- RAG that keeps answers traceable to source material.
-- Knowledge graphs for exploring research relationships.
-- Retrieval evaluation using **Precision@5, Recall@5, MRR, and nDCG@5**.
+- **Extraction:** Getting usable metadata, citations, and contexts out of research papers.
+- **Retrieval:** Comparing embedding-based search with BM25 baselines.
+- **Relationships:** Connecting papers, authors, and venues through a knowledge graph.
+- **Grounding:** Keeping generated answers traceable to retrieved source material.
+- **Evaluation:** Measuring retrieval quality rather than relying on fluent-looking answers.
+- **Integration:** Connecting the interface, APIs, databases, and AI workflow end to end.
 
-I am interested in measuring whether a retrieval system finds useful evidence, not just whether its generated answer sounds convincing.
+</details>
 
----
+### 05 / BEYOND THE EDITOR
 
-## Experience & Community
+**Linux Operator · Data Binaries**  
+Hands-on server management, performance monitoring, user administration, and troubleshooting.
 
-### Linux Operator — Data Binaries
+**Community & achievements**  
+IEEE Student Branch member · Budget Co-Head, Spectacle 2025 · C Language Quest winner · IIT Bombay Cloud Computing Workshop
 
-Hands-on experience managing Linux servers, monitoring performance, managing users, and troubleshooting system issues. This work complements my development experience with practical exposure to the systems applications run on.
+### 06 / BUILDING IN PUBLIC
 
-### Beyond the Code
+<p align="center">
+  <a href="https://github.com/TDMNQS?tab=overview">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TDMNQS&amp;bg_color=0D1117&amp;color=8B949E&amp;line=22D3EE&amp;point=58A6FF&amp;area=true&amp;area_color=163B65&amp;hide_border=true&amp;custom_title=Numan%27s%20Contribution%20Activity" alt="Numan's recent public GitHub contribution activity" />
+  </a>
+</p>
 
-- **IEEE Student Branch member** — participating in the college's technical community.
-- **Budget Co-Head, Spectacle 2025** — planning and coordinating event budgets.
-- **C Language Quest winner** — programming competition achievement.
-- **IIT Bombay Cloud Computing Workshop** — completed cloud-computing workshop.
-
----
-
-## Tech Stack
-
-```python
-ai_ml     = ["RAG", "Semantic Search", "Embeddings",
-             "Knowledge Graphs", "Citation Extraction", "Retrieval Evaluation"]
-
-apis      = ["Gemini", "Gemini Vision"]
-
-backend   = ["Python", "FastAPI", "Flask", "REST APIs", "WebSockets"]
-
-frontend  = ["React", "JavaScript", "Vite", "Tailwind CSS", "Streamlit"]
-
-data      = ["PostgreSQL", "Neo4j", "Qdrant", "ChromaDB", "Redis", "Firebase"]
-
-infra     = ["Linux", "AWS", "Docker", "Git", "GitHub", "Postman"]
-
-languages = ["Python", "Java", "C++", "JavaScript"]
-```
+<p align="center">
+  <sub>Live activity visualization powered by GitHub Readme Activity Graph; availability and refresh timing depend on the service.</sub>
+</p>
 
 ---
 
-## Currently
+<a id="lets-build"></a>
 
-- Working on **SynapsGraph AI**, my final-year research-discovery project.
-- Deepening my understanding of retrieval evaluation and citation-grounded AI.
-- Building experience across AI applications, backend systems, and deployment.
-- Open to **AI engineering, applied AI, and software engineering internships**.
+<p align="center">
+  <b>LET'S BUILD SOMETHING USEFUL.</b><br /><br />
+  Open to <b>AI engineering · Applied AI · Software engineering internships</b><br />
+  Interested in teams working on retrieval, developer tools, and practical AI applications.
+</p>
 
-[Explore my repositories](https://github.com/TDMNQS?tab=repositories)
+<p align="center">
+  <a href="https://github.com/TDMNQS?tab=repositories"><b>Explore my repositories ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.loom.com/share/00281c026529400ca89a095950096f71"><b>Watch Job Match AI demo ↗</b></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:163B65,100:22D3EE&amp;height=100&amp;section=footer" alt="" />
