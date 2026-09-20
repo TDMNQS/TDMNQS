@@ -144,7 +144,7 @@ IEEE Student Branch member · Budget Co-Head, Spectacle 2025 · C Language Quest
 ### 06 / BUILDING IN PUBLIC
 
 <p align="center">
-  <img width="100%" src="./assets/numan-dot-profile.svg" alt="Numan Qureshi dotted terminal-style profile art" />
+  <img width="100%" src="./assets/numan-ai-command-center.svg" alt="Numan Qureshi futuristic AI command center developer banner" />
 </p>
 
 <p align="center">
