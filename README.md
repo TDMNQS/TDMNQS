@@ -144,7 +144,7 @@ IEEE Student Branch member · Budget Co-Head, Spectacle 2025 · C Language Quest
 ### 06 / BUILDING IN PUBLIC
 
 <p align="center">
-  <img width="100%" src="./assets/cricket-animation.svg" alt="Animated cricketer hitting a six — decorative illustration, not contribution data" />
+  <img width="100%" src="./assets/numan-dot-profile.svg" alt="Numan Qureshi dotted terminal-style profile art" />
 </p>
 
 <p align="center">
